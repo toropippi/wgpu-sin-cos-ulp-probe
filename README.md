@@ -15,3 +15,7 @@ It dispatches WGSL compute shaders with the built-in `sin/cos` functions, reads 
 - バックエンド切り替え（Vulkan、D3D12、OpenGL、macOS上のMetal）
 - 選択したテスト値に対するULP誤差測定
 - 比較しやすい表形式出力
+
+## 実行結果
+環境：windows 11、GPU RTX 5090、Python 3.13
+<img width="1113" height="576" alt="{23F034BE-1535-4BFD-A016-977A5C42CDC5}" src="https://github.com/user-attachments/assets/1fcdbd4b-c441-44f6-95f2-7d99fe3469a2" />
